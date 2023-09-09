@@ -1,1 +1,1 @@
-# ml-for-content-creation
+# ML for content creation
